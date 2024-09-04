@@ -1,5 +1,4 @@
-# knowledge-graph
-Knowledge Graphs for RAG
+# Knowledge Graphs for RAG
 
 L2: Querying Knowledge Graphs
 
